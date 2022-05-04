@@ -1,0 +1,13 @@
+sample	group
+ct1	ct
+ct2	ct
+ct3	ct
+ct4	ct
+ct5	ct
+ct6	ct
+ml1	ml
+ml2	ml
+ml3	ml
+ml4	ml
+ml5	ml
+ml6	ml

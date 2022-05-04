@@ -1,0 +1,13 @@
+sample	group
+ct1	ct
+ct2	ct
+ct3	ct
+ct4	ct
+ct5	ct
+ct6	ct
+hl1	hl
+hl2	hl
+hl3	hl
+hl4	hl
+hl5	hl
+hl6	hl
